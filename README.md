@@ -65,6 +65,26 @@
             </p>
         </h3>
     </p>
+        <p>
+            <h3>
+                <a href="https://github.com/anastasia728/api.">Тестирование API</a>
+            </h3>
+        </p>
+        <p>
+            <h3>
+                <a href="https://github.com/anastasia728/database">Работа с БД</a>
+            </h3>
+        </p>
+        <p>
+            <h3>
+                <a href="https://github.com/anastasia728/mobile">Тестирование мобильных приложений</a>
+            </h3>
+            <p>
+                <h3>
+                    <a href="https://github.com/anastasia728/git_bash">Работа с Bash</a>
+                </h3>
+            </p>
+        </p>
     </div>
     <h3>
         <a href="mailto:anastasanastas728@jmail.com">Отправить электронное письмо</a>
