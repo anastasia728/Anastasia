@@ -4,39 +4,12 @@
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик. Основной домен - тестирование веб-приложений (front + back).
+Я тестировщик.
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        body {
-            background-color: azure;
-        }
-h1 {
-    color: black;
-}
-
-h2 {
-    color: black; 
-}
-div {
-    border-style: solid; margin: 25px;
-}
-a {
-color: black;
-}
-
-    </style>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Анастасия Попова</title>
 </head>
 <body>
     <h1 style="color: rgb(12, 2, 22);"> Анастасия Попова</h1>
-    <p><img src="img.jpg" alt="foto" width="192" height="256"> </p> 
-    <div class="center"></div>
+    
 <h2>Тестовые артефакты</h2>
     <div> 
         <h3>
@@ -84,7 +57,9 @@ color: black;
         </p>
     <p>
         <h3>
-            <a href=" https://app.qase.io/project/G7?suite=188">Тест-кейсы для Корзины и Оплаты</a>
+            <p>
+            <a href="https://app.qase.io/project/G7?suite=188">Тест-кейсы для Корзины и Оплаты</a>
+            </p>
             <p>
             <a href="https://docs.google.com/spreadsheets/d/1lvAbgpQa_rHTvZVrOQ-ph_oq7DLOAlvvUQTX35-7YIo/edit?usp=sharing">Чек-лист для Корзины и Оплаты</a>
             </p>
