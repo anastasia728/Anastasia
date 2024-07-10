@@ -84,7 +84,7 @@
         </p>
     </div>
     <h3>
-        <a href="mailto:anastasanastas728@jmail.com">Электронная почта для связи со мной</a>
+        <a href="mailto:qa.anastasiapopova@gmail.com">Электронная почта для связи со мной</a>
     </h3>
 </body>
 </html>
